@@ -85,3 +85,19 @@
 
 ---
 
+## 🖼️ Скриншоты
+
+| № | Страница | Скриншот |
+|---|----------|----------|
+| 1 | Главная (Hero-секция) | ![Hero](./screenshots/1-main-hero.png) |
+| 2 | Список мероприятий | ![Список](./screenshots/2-main-events.png) |
+| 3 | Регистрация | ![Регистрация](./screenshots/3-register.png) |
+| 4 | Авторизация | ![Авторизация](./screenshots/4-login.png) |
+| 5 | Детали мероприятия | ![Детали](./screenshots/5-event-details.png) |
+| 6 | Схема зала | ![Схема зала](./screenshots/6-seat-map.png) |
+| 7 | Оформление билетов | ![Оформление](./screenshots/7-checkout.png) |
+| 8 | Профиль пользователя | ![Профиль](./screenshots/8-profile.png) |
+| 9 | Мои билеты (QR-коды) | ![Билеты](./screenshots/9-my-tickets.png) |
+| 10 | Настройки | ![Настройки](./screenshots/10-settings.png) |
+| 11 | Обратная связь | ![Контакты](./screenshots/11-contact.png) |
+| 12 | Email-рассылка | ![Email](./screenshots/12-welcome-email.png) |
